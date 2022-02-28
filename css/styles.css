@@ -1,0 +1,112 @@
+body{
+    font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+
+    background-image: url("../img/bg_food.png");
+
+    
+}
+
+img {
+    margin: 0 .5em;
+    margin-top: 2em;
+
+    height: auto;
+    max-height: 600px;
+
+    width: 25%;
+    max-width: 400px;
+
+}
+
+
+.container{
+    background-color: hsla(0, 0%, 100%, .2);
+
+    width: 70%;
+    max-width: 1000px;
+    
+    text-align: center;
+
+    margin: 0 auto;
+
+    
+}
+
+
+.container h1{
+    font-size: 3em;
+    font-weight: 900;   
+}
+
+
+.container h2{
+    font-size: 1.7em;
+
+    text-decoration: underline;
+
+    margin: 0 1.5em;
+    margin-top: 2.5em;
+    margin-bottom: .7em;
+
+}
+
+
+.container p{
+    text-align: center;
+
+    font-size: 1.1em;
+
+    margin: 0 1.5em;
+    margin-top: 1.5em;
+}
+
+.container ul{
+    text-align: left;
+
+    display: inline-block;
+
+    margin: 0 1.5em;
+}
+
+
+.container ol{
+    text-align: left;
+
+    display: inline-block;
+
+    margin: 0 1.5em;
+}
+
+
+.container li{
+    font-size: 1.1em;
+
+    text-align: left;
+
+    margin-top: .5em;
+}
+
+
+.header{
+    background-color: hsla(204, 100%, 50%,.3);
+
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+
+.foot{
+    background-color: hsla(204, 100%, 50%,.3);
+
+    padding-top: .5em;
+    padding-bottom: .5em;
+
+    margin-top: 2em;
+}
+
+
+.foot p{
+    font-size: .8em;
+    
+    margin: 0 auto;
+}
